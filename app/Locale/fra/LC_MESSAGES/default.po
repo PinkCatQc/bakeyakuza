@@ -1,0 +1,722 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-10-17 19:08+0100\n"
+"PO-Revision-Date: 2014-10-20 09:20-0500\n"
+"Last-Translator: \n"
+"Language-Team:  <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.9\n"
+"Language: fr_CA\n"
+
+#: Controller/ClansController.php:38;73;104
+msgid "Invalid clan"
+msgstr "Le clan est invalid"
+
+#: Controller/ClansController.php:53;77
+msgid "The clan has been saved"
+msgstr "Le clan a été sauvegardé"
+
+#: Controller/ClansController.php:56;80
+msgid "The clan could not be saved. Please, try again."
+msgstr "Le clan n'a pas pu être sauvegardé. Essayez de nouveau."
+
+#: Controller/ClansController.php:107
+msgid "Clan deleted"
+msgstr "Le clan a été supprimé"
+
+#: Controller/ClansController.php:110
+msgid "Clan was not deleted"
+msgstr "Le clan n'a pas été supprimé"
+
+#: Controller/HierarchiesController.php:38;73;104
+msgid "Invalid hierarchy"
+msgstr "La hierarchy est invalide"
+
+#: Controller/HierarchiesController.php:53;77
+msgid "The hierarchy has been saved"
+msgstr "La hierarchy a été sauvegardé"
+
+#: Controller/HierarchiesController.php:56;80
+msgid "The hierarchy could not be saved. Please, try again."
+msgstr "La hierarchy n'a pas pu être sauvegardé. Essayez de nouveau."
+
+#: Controller/HierarchiesController.php:107
+msgid "Hierarchy deleted"
+msgstr "La hierarchy a été supprimé"
+
+#: Controller/HierarchiesController.php:110
+msgid "Hierarchy was not deleted"
+msgstr "La hierarchy n'a pas été supprimé"
+
+#: Controller/HobbiesController.php:38;73;104
+msgid "Invalid hobby"
+msgstr "Le passe-temps est invalide"
+
+#: Controller/HobbiesController.php:53;77
+msgid "The hobby has been saved"
+msgstr "Le passe-temps a été sauvegardé"
+
+#: Controller/HobbiesController.php:56;80
+msgid "The hobby could not be saved. Please, try again."
+msgstr "Le passe-temps n'a pas été sauvegardé. Essayez de nouveau."
+
+#: Controller/HobbiesController.php:107
+msgid "Hobby deleted"
+msgstr "Le passe-temps a été supprimé"
+
+#: Controller/HobbiesController.php:110
+msgid "Hobby was not deleted"
+msgstr "Le passe-temps n'a pas été supprimé"
+
+#: Controller/MembersController.php:38;73;104
+msgid "Invalid member"
+msgstr "Le membre est invalide"
+
+#: Controller/MembersController.php:53;77
+msgid "The member has been saved"
+msgstr "Le membre a été sauvegardé"
+
+#: Controller/MembersController.php:56;80
+msgid "The member could not be saved. Please, try again."
+msgstr "Le membre n'a pas été sauvegardé. Essayez de nouveau."
+
+#: Controller/MembersController.php:107
+msgid "Member deleted"
+msgstr "Le membre a été supprimé"
+
+#: Controller/MembersController.php:110
+msgid "Member was not deleted"
+msgstr "Le membre n'a pas été supprimé"
+
+#: Controller/UsersController.php:17
+msgid "Invalid user name or password, Please try again"
+msgstr ""
+"Le nom d'utilisateur ou le mot de passe est invalide. Essayez de nouveau"
+
+#: Controller/UsersController.php:57;90;119
+msgid "Invalid user"
+msgstr "L'utilisateur est invalide."
+
+#: Controller/UsersController.php:72;94
+msgid "The user has been saved"
+msgstr "L'utilisateur a été sauvegardé"
+
+#: Controller/UsersController.php:75;97
+msgid "The user could not be saved. Please, try again."
+msgstr "L'utilisateur n'a pas pu être sauvegardé. Essayez de nouveau"
+
+#: Controller/UsersController.php:122
+msgid "User deleted"
+msgstr "L'utilisateur a été supprimé"
+
+#: Controller/UsersController.php:125
+msgid "User was not deleted"
+msgstr "L'utilisateur n'a pas été supprimé"
+
+#: Controller/YakuzasController.php:38;73;104
+msgid "Invalid yakuza"
+msgstr "Le Yakuza est invalide"
+
+#: Controller/YakuzasController.php:53;77
+msgid "The yakuza has been saved"
+msgstr "Le Yakuza a été sauvegardé"
+
+#: Controller/YakuzasController.php:56;80
+msgid "The yakuza could not be saved. Please, try again."
+msgstr "Le Yakuza n'a pas pu être sauvegardé. Essayez de nouveau"
+
+#: Controller/YakuzasController.php:107
+msgid "Yakuza deleted"
+msgstr "Le Yakuza a été supprimé"
+
+#: Controller/YakuzasController.php:110
+msgid "Yakuza was not deleted"
+msgstr "Le Yakuza n'a pas été supprimé"
+
+#: Plugin/I18n/Controller/TranslationsController.php:146
+msgid "The translation has been saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:167;190
+msgid "Translation saved"
+msgstr ""
+
+#: Plugin/I18n/Controller/TranslationsController.php:210
+msgid "Translation deleted"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:112
+msgid "Could not save the translation, please check your inputs."
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:134;171;215;237
+msgid "Invalid Translation"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:255
+msgid "You need to confirm to delete this Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:4
+msgid "Admin Add Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_add.ctp:17
+#: Plugin/I18n/View/Translations/admin_edit.ctp:19
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:40
+msgid "List Translations"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:1
+msgid "Delete Translation \"%s\"?"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:3
+msgid ""
+"Be aware that your Translation and all associated data will be deleted if "
+"you confirm!"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:11
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:13
+msgid "You have to confirm."
+msgstr "Vous devez confirmer"
+
+#: Plugin/I18n/View/Translations/admin_delete.ctp:14
+msgid "Continue"
+msgstr "Continue"
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:4
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:4
+msgid "Admin Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_edit.ctp:18
+#: Plugin/I18n/View/Translations/admin_index.ctp:70 View/Clans/edit.ctp:12
+#: View/Clans/index.ctp:70 View/Clans/view.ctp:143
+#: View/Hierarchies/edit.ctp:12 View/Hierarchies/index.ctp:56
+#: View/Hobbies/edit.ctp:9 View/Hobbies/index.ctp:43 View/Hobbies/view.ctp:90
+#: View/Members/edit.ctp:12 View/Members/index.ctp:59 View/Users/edit.ctp:12
+#: View/Users/index.ctp:57 View/Users/view.ctp:107 View/Yakuzas/edit.ctp:11
+#: View/Yakuzas/index.ctp:82 View/Yakuzas/view.ctp:144;186
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Plugin/I18n/View/Translations/admin_edit_multi.ctp:22
+msgid "Submit"
+msgstr "Soumettre"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:2
+msgid "Translations"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:6 View/Clans/index.ctp:81
+#: View/Hierarchies/index.ctp:67 View/Hobbies/index.ctp:54
+#: View/Members/index.ctp:70 View/Users/index.ctp:68 View/Yakuzas/index.ctp:93
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:17
+msgid "Locale Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:20
+msgid "Model Name"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:23
+#: Plugin/I18n/View/Translations/admin_view.ctp:24
+msgid "Field"
+msgstr "Champ"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:26
+#: Plugin/I18n/View/Translations/admin_view.ctp:29
+msgid "Content"
+msgstr "Contenu"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:28
+msgid "Search"
+msgstr "Recherche"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:40 View/Clans/index.ctp:54
+#: View/Clans/view.ctp:124 View/Hierarchies/index.ctp:39
+#: View/Hobbies/index.ctp:31 View/Hobbies/view.ctp:71
+#: View/Members/index.ctp:44 View/Users/index.ctp:43 View/Users/view.ctp:89
+#: View/Yakuzas/index.ctp:63 View/Yakuzas/view.ctp:123;173
+msgid "Actions"
+msgstr "Action"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:67 View/Clans/index.ctp:68
+#: View/Clans/view.ctp:141 View/Hierarchies/index.ctp:54
+#: View/Hobbies/index.ctp:41 View/Hobbies/view.ctp:88
+#: View/Members/index.ctp:57 View/Users/index.ctp:55 View/Users/view.ctp:105
+#: View/Yakuzas/index.ctp:80 View/Yakuzas/view.ctp:142;184
+msgid "View"
+msgstr "Vue"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:68 View/Clans/index.ctp:69
+#: View/Clans/view.ctp:142 View/Hierarchies/index.ctp:55
+#: View/Hobbies/index.ctp:42 View/Hobbies/view.ctp:89
+#: View/Members/index.ctp:58 View/Users/index.ctp:56 View/Users/view.ctp:106
+#: View/Yakuzas/index.ctp:81 View/Yakuzas/view.ctp:143;185
+msgid "Edit"
+msgstr "Éditer"
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:69
+msgid "Edit All locales for this entry"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_index.ctp:80
+#: Plugin/I18n/View/Translations/admin_view.ctp:41
+msgid "New Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:2
+msgid "Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:4 View/Clans/view.ctp:116
+#: View/Hobbies/view.ctp:31;63
+msgid "Id"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:9
+msgid "Locale"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:14
+msgid "Model"
+msgstr "Modèle"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:19
+msgid "Foreign Key"
+msgstr "Clé étrangère"
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:38
+msgid "Edit Translation"
+msgstr ""
+
+#: Plugin/I18n/View/Translations/admin_view.ctp:39
+msgid "Delete Translation"
+msgstr ""
+
+#: View/Clans/add.ctp:12 View/Clans/edit.ctp:13 View/Clans/view.ctp:14
+#: View/Members/add.ctp:19 View/Members/edit.ctp:20 View/Members/index.ctp:19
+#: View/Members/view.ctp:22 View/Yakuzas/add.ctp:27 View/Yakuzas/edit.ctp:27
+#: View/Yakuzas/index.ctp:28 View/Yakuzas/view.ctp:30
+msgid "List Clans"
+msgstr "Liste des clans"
+
+#: View/Clans/add.ctp:19 View/Clans/edit.ctp:20 View/Clans/index.ctp:19
+#: View/Clans/view.ctp:22 View/Hierarchies/add.ctp:19
+#: View/Hierarchies/edit.ctp:20 View/Hierarchies/index.ctp:19
+#: View/Hierarchies/view.ctp:23 View/Users/add.ctp:19 View/Users/edit.ctp:20
+#: View/Users/index.ctp:19 View/Users/view.ctp:22 View/Yakuzas/add.ctp:12
+#: View/Yakuzas/edit.ctp:12 View/Yakuzas/view.ctp:14
+msgid "List Yakuzas"
+msgstr "Liste des Yakuzas"
+
+#: View/Clans/add.ctp:20 View/Clans/edit.ctp:21 View/Clans/index.ctp:20
+#: View/Clans/view.ctp:23 View/Hierarchies/add.ctp:20
+#: View/Hierarchies/edit.ctp:21 View/Hierarchies/index.ctp:20
+#: View/Hierarchies/view.ctp:24 View/Users/add.ctp:20 View/Users/edit.ctp:21
+#: View/Users/index.ctp:20 View/Users/view.ctp:23;119
+#: View/Yakuzas/index.ctp:13 View/Yakuzas/view.ctp:15
+msgid "New Yakuza"
+msgstr "Nouveau Yakuza"
+
+#: View/Clans/add.ctp:24 View/Clans/edit.ctp:25 View/Clans/index.ctp:24
+#: View/Clans/view.ctp:27 View/Members/add.ctp:9 View/Members/edit.ctp:9
+#: View/Members/index.ctp:9;32 View/Members/view.ctp:9
+msgid "Members"
+msgstr "Membres"
+
+#: View/Clans/add.ctp:27 View/Clans/edit.ctp:28 View/Clans/index.ctp:27
+#: View/Clans/view.ctp:30 View/Hobbies/add.ctp:10 View/Hobbies/edit.ctp:11
+#: View/Hobbies/index.ctp:10 View/Hobbies/view.ctp:13 View/Members/add.ctp:12
+#: View/Members/edit.ctp:13 View/Members/view.ctp:14
+msgid "List Members"
+msgstr "Liste des membres"
+
+#: View/Clans/add.ctp:28 View/Clans/edit.ctp:29 View/Clans/index.ctp:28
+#: View/Clans/view.ctp:31;155 View/Hobbies/add.ctp:11 View/Hobbies/edit.ctp:12
+#: View/Hobbies/index.ctp:11 View/Hobbies/view.ctp:14;102
+#: View/Members/index.ctp:12 View/Members/view.ctp:15
+msgid "New Member"
+msgstr "Nouveau membre"
+
+#: View/Clans/add.ctp:39
+msgid "Add Clan"
+msgstr "Ajouter un clan"
+
+#: View/Clans/edit.ctp:12 View/Clans/index.ctp:70 View/Clans/view.ctp:13;143
+#: View/Hierarchies/edit.ctp:12 View/Hierarchies/index.ctp:56
+#: View/Hierarchies/view.ctp:14 View/Hobbies/edit.ctp:9
+#: View/Hobbies/index.ctp:43 View/Hobbies/view.ctp:10;90
+#: View/Members/edit.ctp:12 View/Members/index.ctp:59 View/Members/view.ctp:13
+#: View/Users/edit.ctp:12 View/Users/index.ctp:57 View/Users/view.ctp:13;107
+#: View/Yakuzas/edit.ctp:11 View/Yakuzas/index.ctp:82
+#: View/Yakuzas/view.ctp:13;144;186
+msgid "Are you sure you want to delete # %s?"
+msgstr "Êtes-vous sûr de vouloir supprimer"
+
+#: View/Clans/edit.ctp:40 View/Clans/view.ctp:12
+msgid "Edit Clan"
+msgstr "Éditer un clan"
+
+#: View/Clans/index.ctp:12 View/Clans/view.ctp:15 View/Members/add.ctp:20
+#: View/Members/edit.ctp:21 View/Members/index.ctp:20 View/Members/view.ctp:23
+#: View/Yakuzas/add.ctp:28 View/Yakuzas/edit.ctp:28 View/Yakuzas/index.ctp:29
+#: View/Yakuzas/view.ctp:31;156
+msgid "New Clan"
+msgstr "Nouveau clan"
+
+#: View/Clans/index.ctp:41
+msgid "Clans"
+msgstr "Clans"
+
+#: View/Clans/index.ctp:88 View/Hierarchies/index.ctp:74
+#: View/Hobbies/index.ctp:61 View/Members/index.ctp:77 View/Users/index.ctp:75
+#: View/Yakuzas/index.ctp:100
+msgid "Previous"
+msgstr "Précédent"
+
+#: View/Clans/index.ctp:90 View/Hierarchies/index.ctp:76
+#: View/Hobbies/index.ctp:63 View/Members/index.ctp:79 View/Users/index.ctp:77
+#: View/Yakuzas/index.ctp:102
+msgid "Next"
+msgstr "Suivant"
+
+#: View/Clans/view.ctp:13
+msgid "Delete Clan"
+msgstr "Supprimé un clan"
+
+#: View/Clans/view.ctp:44 View/Members/view.ctp:40
+msgid "Clan"
+msgstr "Clan"
+
+#: View/Clans/view.ctp:49 View/Hierarchies/index.ctp:45
+#: View/Hierarchies/view.ctp:41 View/Yakuzas/view.ctp:51
+msgid "Yakuza"
+msgstr "Yakuza"
+
+#: View/Clans/view.ctp:54 View/Yakuzas/view.ctp:114 View/Clans/view.ctp:118
+#: View/Hobbies/view.ctp:36;65 View/Members/view.ctp:45
+msgid "Name"
+msgstr "Nom"
+
+#: View/Clans/view.ctp:59 View/Yakuzas/view.ctp:115
+msgid "Founding Location"
+msgstr "Lieu de la fondation"
+
+#: View/Clans/view.ctp:64 View/Yakuzas/view.ctp:116
+msgid "Years Active"
+msgstr "Nombre d'années actif"
+
+#: View/Clans/view.ctp:69 View/Yakuzas/view.ctp:117
+msgid "Territory"
+msgstr "Territoire"
+
+#: View/Clans/view.ctp:74 View/Yakuzas/view.ctp:118
+msgid "Ethnicity"
+msgstr "Ethnicité"
+
+#: View/Clans/view.ctp:79 View/Users/view.ctp:84 View/Yakuzas/view.ctp:66;119
+msgid "Membership"
+msgstr "Nombre de membres"
+
+#: View/Clans/view.ctp:84 View/Yakuzas/view.ctp:120
+msgid "Criminal Activities"
+msgstr "Activités criminelle"
+
+#: View/Clans/view.ctp:89 View/Users/view.ctp:55;87
+#: View/Yakuzas/view.ctp:86;121
+msgid "Created"
+msgstr "créé"
+
+#: View/Clans/view.ctp:94 View/Users/view.ctp:60;88
+#: View/Yakuzas/view.ctp:91;122
+msgid "Modified"
+msgstr "modifié"
+
+#: View/Clans/view.ctp:108 View/Hobbies/view.ctp:55
+msgid "Related Members"
+msgstr "Membres connexe"
+
+#: View/Clans/view.ctp:117 View/Hobbies/view.ctp:64
+msgid "Clan Id"
+msgstr "identifiant du clan"
+
+#: View/Clans/view.ctp:119 View/Hobbies/view.ctp:66 View/Members/view.ctp:50
+msgid "First name"
+msgstr "Prénom"
+
+#: View/Clans/view.ctp:120 View/Hobbies/view.ctp:67 View/Members/view.ctp:55
+msgid "Recruitment date"
+msgstr "Date de recrutement"
+
+#: View/Clans/view.ctp:121 View/Hobbies/view.ctp:68 View/Members/view.ctp:60
+msgid "Date of birth"
+msgstr "Date de naissance"
+
+#: View/Hobbies/view.ctp:69 View/Members/view.ctp:65 View/Clans/view.ctp:122
+msgid "Date of death"
+msgstr "Date de deces"
+
+#: View/Clans/view.ctp:123 View/Hobbies/view.ctp:70 View/Members/view.ctp:70
+msgid "Ability"
+msgstr "Abilité"
+
+#: View/Hierarchies/add.ctp:9 View/Hierarchies/edit.ctp:9
+#: View/Hierarchies/index.ctp:9 View/Hierarchies/view.ctp:10;36
+#: View/Yakuzas/add.ctp:32 View/Yakuzas/edit.ctp:32 View/Yakuzas/index.ctp:33
+#: View/Yakuzas/view.ctp:35
+msgid "Hierarchy"
+msgstr "Hiérarchie"
+
+#: View/Hierarchies/add.ctp:12 View/Hierarchies/edit.ctp:13
+#: View/Hierarchies/view.ctp:15 View/Yakuzas/add.ctp:35
+#: View/Yakuzas/edit.ctp:35 View/Yakuzas/index.ctp:36 View/Yakuzas/view.ctp:38
+msgid "List Hierarchies"
+msgstr "Liste de hiérarchies"
+
+#: View/Hierarchies/add.ctp:30
+msgid "Add Hierarchy"
+msgstr "Ajouter une hiérarchie"
+
+#: View/Hierarchies/edit.ctp:31 View/Hierarchies/view.ctp:13
+msgid "Edit Hierarchy"
+msgstr "Éditer une hiérarchie"
+
+#: View/Hierarchies/index.ctp:12 View/Hierarchies/view.ctp:16
+#: View/Yakuzas/add.ctp:36 View/Yakuzas/edit.ctp:36 View/Yakuzas/index.ctp:37
+#: View/Yakuzas/view.ctp:39;198
+msgid "New Hierarchy"
+msgstr "Nouvelle hiérarchie"
+
+#: View/Hierarchies/index.ctp:32
+msgid "Hierarchies"
+msgstr "Hiérarchies"
+
+#: View/Hierarchies/view.ctp:14
+msgid "Delete Hierarchy"
+msgstr "Supprimer une hiérarchie"
+
+#: View/Hierarchies/view.ctp:46 View/Yakuzas/view.ctp:172
+msgid "Level"
+msgstr "Niveau"
+
+#: View/Hobbies/add.ctp:9 View/Hobbies/edit.ctp:10 View/Hobbies/view.ctp:11
+msgid "List Hobbies"
+msgstr "Liste des passe-temps"
+
+#: View/Hobbies/add.ctp:20
+msgid "Add Hobby"
+msgstr "Ajouter un passe-temps"
+
+#: View/Hobbies/edit.ctp:21 View/Hobbies/view.ctp:9
+msgid "Edit Hobby"
+msgstr "Éditer un passe-temps"
+
+#: View/Hobbies/index.ctp:9 View/Hobbies/view.ctp:12
+msgid "New Hobby"
+msgstr "Nouveau passe-temps"
+
+#: View/Hobbies/index.ctp:22
+msgid "Hobbies"
+msgstr "Passe-temps"
+
+#: View/Hobbies/view.ctp:10
+msgid "Delete Hobby"
+msgstr "Supprimer un passe-temps"
+
+#: View/Hobbies/view.ctp:26
+msgid "Hobby"
+msgstr "Passe-temps"
+
+#: View/Hobbies/view.ctp:41
+msgid "Desc"
+msgstr "Description"
+
+#: View/Members/add.ctp:30
+msgid "Add Member"
+msgstr "Ajouter un membre"
+
+#: View/Members/edit.ctp:31 View/Members/view.ctp:12
+msgid "Edit Member"
+msgstr "Éditer un membre"
+
+#: View/Members/view.ctp:13
+msgid "Delete Member"
+msgstr "Supprimer un membre"
+
+#: View/Members/view.ctp:35
+msgid "Member"
+msgstr "Membre"
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:20
+msgid "logout"
+msgstr "Déconnecter"
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:22
+msgid "login"
+msgstr "Se connecter"
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:24
+msgid "sign in"
+msgstr "S'inscrire"
+
+#: View/Themed/Cakestrap/Elements/menu/top_menu.ctp:28
+msgid "Language"
+msgstr "Langue"
+
+#: View/Users/add.ctp:9 View/Users/edit.ctp:9 View/Users/index.ctp:9
+#: View/Users/view.ctp:9;35 View/Yakuzas/add.ctp:16 View/Yakuzas/edit.ctp:16
+#: View/Yakuzas/index.ctp:17 View/Yakuzas/view.ctp:19;81
+msgid "User"
+msgstr "Utilisateur"
+
+#: View/Users/add.ctp:12 View/Users/edit.ctp:13 View/Users/view.ctp:14
+#: View/Yakuzas/add.ctp:19 View/Yakuzas/edit.ctp:19 View/Yakuzas/index.ctp:20
+#: View/Yakuzas/view.ctp:22
+msgid "List Users"
+msgstr "Liste des utilisateurs"
+
+#: View/Users/add.ctp:30
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+#: View/Users/edit.ctp:32 View/Users/view.ctp:12
+msgid "Edit User"
+msgstr "Éditer un utilisateur"
+
+#: View/Users/index.ctp:12 View/Users/view.ctp:15 View/Yakuzas/add.ctp:20
+#: View/Yakuzas/edit.ctp:20 View/Yakuzas/index.ctp:21 View/Yakuzas/view.ctp:23
+msgid "New User"
+msgstr "Nouveau utilisateur"
+
+#: View/Users/index.ctp:32
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: View/Users/login.ctp:6
+msgid "Please enter your username and password"
+msgstr "Veuillez entrer votre nom d'utilisateur et votre mot de passe"
+
+#: View/Users/login.ctp:12
+msgid "Login"
+msgstr "Se connecter"
+
+#: View/Users/view.ctp:13
+msgid "Delete User"
+msgstr "Supprimer l'utilisateur"
+
+#: View/Users/view.ctp:40
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: View/Users/view.ctp:45
+msgid "Role"
+msgstr "Role"
+
+#: View/Users/view.ctp:86 View/Yakuzas/view.ctp:76 View/Users/view.ctp:50
+msgid "Email"
+msgstr "Adresse courriel"
+
+#: View/Users/view.ctp:74
+msgid "Related Yakuzas"
+msgstr "Yakuzas connexe"
+
+#: View/Users/view.ctp:82 View/Yakuzas/view.ctp:56
+msgid "Origin"
+msgstr "Origine"
+
+#: View/Users/view.ctp:83 View/Yakuzas/view.ctp:61
+msgid "Creation"
+msgstr "Date de création"
+
+#: View/Users/view.ctp:85 View/Yakuzas/view.ctp:71
+msgid "Activities"
+msgstr "Activités"
+
+#: View/Yakuzas/add.ctp:46
+msgid "Add Yakuza"
+msgstr "Ajouter un Yakuza"
+
+#: View/Yakuzas/edit.ctp:46 View/Yakuzas/view.ctp:12
+msgid "Edit Yakuza"
+msgstr "Éditer un Yakuza"
+
+#: View/Yakuzas/index.ctp:49
+msgid "Yakuzas"
+msgstr "Yakuzas"
+
+#: View/Yakuzas/view.ctp:13
+msgid "Delete Yakuza"
+msgstr "Supprimer un Yakuza"
+
+#: View/Yakuzas/view.ctp:105
+msgid "Related Clans"
+msgstr "Clans connexe"
+
+#: View/Yakuzas/view.ctp:163
+msgid "Related Hierarchies"
+msgstr "Hierarchies connexe"
+
+#: Model/Clan.php:validation for field name;validation
+#: foundinglocation;validation territory;validation ethnicity;validation
+#: criminalactivities Model/Hobby.php:validation nom
+#: Model/Member.php:validation nom;validation prenom;validation abilite
+#: Model/User.php:validation username;validation password
+#: Model/Yakuza.php:validation origin;validation activities
+msgid "notEmpty"
+msgstr "Pas vide"
+
+#: Model/Clan.php:validation for field yearsactive;validation membership
+#: Model/Yakuza.php:validation
+msgid "numeric"
+msgstr "Chiffre"
+
+#: Model/Hierarchy.php:validation for field level Model/Member.php:validation
+#: deces Model/User.php:validation role
+msgid "inList"
+msgstr "Liste"
+
+#: Model/Member.php:validation for field daterecrutement;validation naissance
+#: Model/Yakuza.php:validation creation
+msgid "date"
+msgstr "Date"
+
+#: Model/User.php:validation for field email Model/Yakuza.php:validation
+#: courriel
+msgid "email"
+msgstr "Courriel"
+
+#: Plugin/I18n/Model/Translation.php:validation for field locale
+msgid "Please enter a Locale"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field model
+msgid "Please enter a Model"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field foreign_key
+msgid "Please enter a Foreign Key"
+msgstr ""
+
+#: Plugin/I18n/Model/Translation.php:validation for field
+msgid "Please enter a Field"
+msgstr ""
