@@ -64,7 +64,7 @@
  */
 //class DATABASE_CONFIG {
 
-	define('DEFAULT_DB', APP.DS.'sqlite'.DS.'default.sqlite');
+	define('DEFAULT_DB', APP.DS.'SQLite'.DS.'default.sqlite');
 
 	class DATABASE_CONFIG {
 
