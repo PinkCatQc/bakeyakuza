@@ -87,14 +87,14 @@
 		<td>
                         <?php $created = $yakuza['Yakuza']['created'];
                         echo is_numeric($created) ? date("Y-m-d H:i:s", $created) : h($created); ?>
-			<?php echo h($yakuza['Yakuza']['created']); ?>
+			
 			&nbsp;
 		</td>
 </tr><tr>		<td><strong><?php echo __('Modified'); ?></strong></td>
 		<td>
                         <?php $modified = $yakuza['Yakuza']['modified'];
                         echo is_numeric($modified) ? date("Y-m-d H:i:s", $modified) : h($modified); ?>
-			<?php echo h($yakuza['Yakuza']['modified']); ?>
+			
 			&nbsp;
 		</td>
 </tr>					</tbody>

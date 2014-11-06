@@ -88,12 +88,16 @@
 		</td>
 </tr><tr>		<td><strong><?php echo __('Created'); ?></strong></td>
 		<td>
-			<?php echo h($clan['Clan']['created']); ?>
+                        <?php $created = $clan['Clan']['created'];
+                        echo is_numeric($created) ? date("Y-m-d H:i:s", $created) : h($created); ?>
+			
 			&nbsp;
 		</td>
 </tr><tr>		<td><strong><?php echo __('Modified'); ?></strong></td>
 		<td>
-			<?php echo h($clan['Clan']['modified']); ?>
+                        <?php $modified = $clan['Clan']['modified'];
+                        echo is_numeric($modified) ? date("Y-m-d H:i:s", $modified) : h($modified); ?>
+			
 			&nbsp;
 		</td>
 </tr>					</tbody>
