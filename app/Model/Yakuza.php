@@ -41,7 +41,7 @@ class Yakuza extends AppModel {
 		),
 		'creation' => array(
 			'date' => array(
-				'rule' => array('date'),
+				'rule' => array('notEmpty'),
 				//'message' => 'Your custom message here',
 				//'allowEmpty' => false,
 				//'required' => false,
