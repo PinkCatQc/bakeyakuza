@@ -85,8 +85,8 @@
 		</td>
 </tr><tr>		<td><strong><?php echo __('Created'); ?></strong></td>
 		<td>
-                        <?php $created = $yakuza['Yakuza']['created'];
-                        echo is_numeric($created) ? date("Y-m-d H:i:s", $created) : h($created); ?>
+                        $created = $yakuza['Yakuza']['created'];
+                        echo is_numeric($created) ? date("Y-m-d H:i:s", $created) : h($created);
 			
 			&nbsp;
 		</td>
