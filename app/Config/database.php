@@ -60,7 +60,7 @@
  * For Sql Server : http://msdn.microsoft.com/en-us/library/ms190356.aspx
  *
  * flags =>
- * A key/value array of driver specific connection options.
+ *.
  */
 //class DATABASE_CONFIG {
 
