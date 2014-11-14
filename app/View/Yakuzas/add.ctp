@@ -47,8 +47,7 @@
 
 		<div class="yakuzas form">
 		
-			<?php echo $this->Form->create('Yakuza', array('role' => 'form')); ?>
-
+			<?php echo $this->Form->create('Yakuza', array('type' => 'file')); ?>
 				<fieldset>
 
 					<div class="form-group">

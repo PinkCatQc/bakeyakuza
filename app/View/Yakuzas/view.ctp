@@ -78,6 +78,11 @@
 			<?php echo h($yakuza['Yakuza']['courriel']); ?>
 			&nbsp;
 		</td>
+</tr><tr>		<td><strong><?php echo __('File name'); ?></strong></td>
+		<td>
+                        <img src="<?php echo $this->webroot . $yakuza['Yakuza']['filename'] ; ?>" width="128" height="128" >
+			&nbsp;
+		</td>
 </tr><tr>		<td><strong><?php echo __('User'); ?></strong></td>
 		<td>
 			<?php echo $this->Html->link($yakuza['User']['username'], array('controller' => 'users', 'action' => 'view', $yakuza['User']['id']), array('class' => '')); ?>
