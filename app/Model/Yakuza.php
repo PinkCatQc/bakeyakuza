@@ -94,6 +94,10 @@ class Yakuza extends AppModel {
 				'required' => FALSE,
 				'allowEmpty' => TRUE,
 			),
+                        'mimeType2' => array(
+                        'rule' => array('fileSize', '<=', '1MB'),                        
+                        ),
+
 			// custom callback to deal with the file upload
 			'processUpload' => array(
 				'rule' => 'processUpload',
